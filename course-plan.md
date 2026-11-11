@@ -42,20 +42,20 @@
 
 ### Lección 7: Clases y objetos
 
-- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 6 minutos; 
 - **Descripción:** Define una clase `Estudiante`, crea dos objetos con datos diferentes y llama a un método simple.
-- **Video:** 
-- **Práctica en línea:** 
+- **Video:** [Ver la lección 7](https://youtu.be/jfCKOIlEOvE).
+- **Práctica en línea:** [Abrir el editor con el ejercicio de Estudiante](https://onlinegdb.com/PUIkm-lQk).
 - **Código:** [Archivo inicial](starter-files/lesson-07/Main.java) · [Ejemplo completo](completed-examples/lesson-07/Main.java).
 - **Guion:** [Lección 7](scripts/lesson-07.md).
 - **Al finalizar:** el estudiante distingue una clase de un objeto e instancia dos estudiantes.
 
 ### Lección 8: Constructores y encapsulación
 
-- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 8 minutos;
 - **Descripción:** Inicializa un objeto mediante un constructor y controla el acceso a sus atributos con getters y setters.
-- **Video:** 
-- **Práctica en línea:** 
+- **Video:** [Ver la lección 8](https://youtu.be/5go02udBC3E).
+- **Práctica en línea:** [Abrir el editor con el ejercicio de Estudiante](https://onlinegdb.com/TiwaucRnN).
 - **Código:** [Archivo inicial](starter-files/lesson-08/Main.java) · [Ejemplo completo](completed-examples/lesson-08/Main.java).
 - **Guion:** [Lección 8](scripts/lesson-08.md).
 - **Al finalizar:** el estudiante utiliza un constructor y modifica la edad mediante un setter con validación sencilla.
