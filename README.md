@@ -2,6 +2,11 @@
 
 Material del curso de Java para estudiantes de secundaria. Los ejercicios se pueden abrir en un editor de Java en línea; no requieren instalar Java.
 
+## Lecciones 1 y 2 — Integrante 1
+
+- **Lección 1: ¿Qué es programar y qué es Java?** [Ejercicio inicial](starter-files/lesson-01/Main.java), [ejemplo completo](completed-examples/lesson-01/Main.java).
+- **Lección 2: Variables y tipos de datos.** [Ejercicio inicial](starter-files/lesson-02/Main.java), [ejemplo completo](completed-examples/lesson-02/Main.java).
+
 ## Lecciones 5 y 6 — Integrante 3
 
 - **Lección 5: bucles `for` y `while`.** [Ejercicio inicial](starter-files/lesson-05/Main.java), [solución con `for`](completed-examples/lesson-05/Main.java), [solución con `while`](completed-examples/lesson-05/WhileExample.java) y [guion](scripts/lesson-05.md).
