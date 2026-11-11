@@ -1,1 +1,17 @@
-# java-fundamentals-course-ViaNexo
+# Fundamentos de Java para principiantes — ViaNexo
+
+Material del curso de Java para estudiantes de secundaria. Los ejercicios se pueden abrir en un editor de Java en línea; no requieren instalar Java.
+
+## Lecciones 5 y 6 — Integrante 3
+
+- **Lección 5: bucles `for` y `while`.** [Ejercicio inicial](starter-files/lesson-05/Main.java), [solución con `for`](completed-examples/lesson-05/Main.java), [solución con `while`](completed-examples/lesson-05/WhileExample.java) y [guion](scripts/lesson-05.md).
+- **Lección 6: métodos y entrada/salida.** [Ejercicio inicial](starter-files/lesson-06/Main.java), [solución](completed-examples/lesson-06/Main.java) y [guion](scripts/lesson-06.md).
+
+## Cómo usar los archivos
+
+1. Abre un editor de Java en línea que permita ejecutar programas con una clase `Main` y, para la lección 6, introducir datos por consola.
+2. Copia el contenido del archivo inicial de la lección en el editor y completa las partes indicadas en sus comentarios.
+3. Ejecuta el ejercicio y compara tu resultado con el ejemplo completo correspondiente.
+4. En la lección 5, ejecuta la solución `Main.java` y el ejemplo `WhileExample.java` por separado. Si el editor exige que la clase pública se llame `Main`, cambia el nombre de la clase `WhileExample` a `Main` al pegar ese ejemplo.
+
+La secuencia y los enlaces de cada lección se reúnen en [course-plan.md](course-plan.md). Los enlaces a videos y prácticas precargadas se añadirán cuando estén disponibles.
