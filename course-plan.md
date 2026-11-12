@@ -22,7 +22,7 @@
 
 ### Lección 5: Bucles `for` y `while`
 
-- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 4:59 min
 - **Descripción:** Repite instrucciones con un contador, una condición y una salida; muestra los números del 1 al 5 de dos maneras.
 - **Video:** [Ver la lección 5](https://www.youtube.com/watch?v=E2Sh20nfQQA).
 - **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
@@ -32,7 +32,7 @@
 
 ### Lección 6: Métodos y entrada/salida
 
-- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 5:50 min
 - **Descripción:** Define un método con parámetro, lee un nombre con `Scanner` y muestra un saludo.
 - **Video:** [Ver la lección 6](https://www.youtube.com/watch?v=rpQjvntIkIY).
 - **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
