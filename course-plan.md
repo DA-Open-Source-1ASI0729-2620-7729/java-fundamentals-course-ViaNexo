@@ -59,3 +59,23 @@
 - **Código:** [Archivo inicial](starter-files/lesson-08/Main.java) · [Ejemplo completo](completed-examples/lesson-08/Main.java).
 - **Guion:** [Lección 8](scripts/lesson-08.md).
 - **Al finalizar:** el estudiante utiliza un constructor y modifica la edad mediante un setter con validación sencilla.
+
+### Lección 9: Arrays de objetos
+
+- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Descripción:** Agrupa objetos `Estudiante` en un array y recórrelo para mostrar sus datos.
+- **Video:** 
+- **Práctica en línea:** 
+- **Código:** [Archivo inicial](starter-files/lesson-09/Main.java) · [Ejemplo completo](completed-examples/lesson-09/Main.java).
+- **Guion:** [Lección 9](scripts/lesson-09.md).
+- **Al finalizar:** el estudiante comprende los índices desde cero y recorre un array de objetos.
+
+### Lección 10: Registro final de estudiantes
+
+- **Duración:** 6 a 8 minutos previstos; registrar la duración real después de grabar.
+- **Descripción:** Integra clase, constructor, método, array y entrada/salida en un programa que registra dos estudiantes.
+- **Video:** 
+- **Práctica en línea:** 
+- **Código:** [Archivo inicial](starter-files/lesson-10/Main.java) · [Ejemplo completo](completed-examples/lesson-10/Main.java).
+- **Guion:** [Lección 10](scripts/lesson-10.md).
+- **Al finalizar:** el estudiante ejecuta el registro, identifica errores frecuentes y propone una mejora sencilla.
