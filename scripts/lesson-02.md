@@ -1,6 +1,6 @@
 # Lección 2 — Variables y tipos de datos
 
-Duración objetivo: 5 a 7 minutos. Ajustar la narración a la duración real del video.
+Duración objetivo: 5 a 7 minutos.
 
 **Diapositiva 4 — Guardar información.**
 
