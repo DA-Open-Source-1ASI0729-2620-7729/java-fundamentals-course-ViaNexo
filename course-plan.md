@@ -7,7 +7,7 @@
 - **Duración:** 6:09 min
 - **Descripción:** Introducción a las instrucciones ordenadas, a Java y a la ejecución del primer programa en el navegador.
 - **Video:** [Ver la lección 1](https://youtu.be/jMYmaWVjO6c).
-- **Práctica en línea:** [Abrir el editor con el ejercicio de Hola mundo](PENDIENTE_URL_EDITOR_PRECARGADO_1).
+- **Práctica en línea:** [Abrir el editor con el ejercicio de Hola mundo](https://onlinegdb.com/ZieQKYNvb).
 - **Código:** [Archivo inicial](starter-files/lesson-01/Main.java) · [Ejemplo completo](completed-examples/lesson-01/Main.java).
 - **Al finalizar:** el estudiante ejecuta un programa y cambia el mensaje que aparece en la consola.
 
@@ -16,7 +16,7 @@
 - **Duración:** 6:21 min
 - **Descripción:** Uso de variables `int` y `String` para guardar, mostrar y actualizar datos.
 - **Video:** [Ver la lección 2](https://youtu.be/7BURV7fqZRk).
-- **Práctica en línea:** [Abrir el editor con el ejercicio de nombre y edad](PENDIENTE_URL_EDITOR_PRECARGADO_2).
+- **Práctica en línea:** [Abrir el editor con el ejercicio de nombre y edad](https://onlinegdb.com/SqUbNsbq7).
 - **Código:** [Archivo inicial](starter-files/lesson-02/Main.java) · [Ejemplo completo](completed-examples/lesson-02/Main.java).
 - **Al finalizar:** el estudiante crea variables y muestra un mensaje con sus valores.
 
