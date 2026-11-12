@@ -6,7 +6,7 @@
 
 - **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
 - **Descripción:** Repite instrucciones con un contador, una condición y una salida; muestra los números del 1 al 5 de dos maneras.
-- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Video:** [Ver la lección 5](https://www.youtube.com/watch?v=E2Sh20nfQQA).
 - **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
 - **Código:** [Archivo inicial](starter-files/lesson-05/Main.java) · [Solución con `for`](completed-examples/lesson-05/Main.java) · [Solución con `while`](completed-examples/lesson-05/WhileExample.java).
 - **Guion:** [Lección 5](scripts/lesson-05.md).
@@ -16,7 +16,7 @@
 
 - **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
 - **Descripción:** Define un método con parámetro, lee un nombre con `Scanner` y muestra un saludo.
-- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Video:** [Ver la lección 6](https://www.youtube.com/watch?v=rpQjvntIkIY).
 - **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
 - **Código:** [Archivo inicial](starter-files/lesson-06/Main.java) · [Ejemplo completo](completed-examples/lesson-06/Main.java).
 - **Guion:** [Lección 6](scripts/lesson-06.md).
