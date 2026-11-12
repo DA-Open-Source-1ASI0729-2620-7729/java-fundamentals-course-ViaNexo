@@ -1,6 +1,6 @@
 # Lección 2 — Variables y tipos de datos
 
-Duración objetivo: 5 a 7 minutos.
+Duración objetivo: 6:21 min
 
 **Diapositiva 4 — Guardar información.**
 
