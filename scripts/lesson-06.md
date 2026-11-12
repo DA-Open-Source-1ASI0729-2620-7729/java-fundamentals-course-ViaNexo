@@ -1,6 +1,6 @@
 # Lección 6 — Métodos y entrada/salida
 
-Duración objetivo: 5 a 7 minutos; indicar la duración real en el plan final.
+Duración objetivo: 5:50 min
 
 **Diapositiva 12 — Métodos.** «En la lección anterior repetimos instrucciones. Ahora queremos agrupar una acción para utilizarla cuando la necesitemos. Imagina una máquina de saludos: recibe un nombre y devuelve un mensaje. Un método tiene nombre, instrucciones y, si lo necesita, parámetros. `saludar(nombre)` recibirá un texto diferente en cada llamada».
 

@@ -1,6 +1,6 @@
 # Lección 5 — Bucles `for` y `while`
 
-Duración objetivo: 5 a 7 minutos; indicar la duración real en el plan final.
+Duración objetivo: 4:59 min
 
 **Diapositiva 10 — Repetir instrucciones.** «Hola. Imagina que un personaje debe saltar cinco veces. En lugar de escribir cinco veces la misma instrucción, podemos usar un bucle. `for` nos resulta útil cuando conocemos el número de repeticiones. `while` repite mientras una condición sea verdadera. En la pantalla vemos un contador que avanza del 1 al 5».
 
