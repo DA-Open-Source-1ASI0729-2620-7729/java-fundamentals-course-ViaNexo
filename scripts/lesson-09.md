@@ -1,6 +1,6 @@
 # Lección 9 — Arrays de objetos
 
-Duración objetivo: 5 a 7 minutos; escribir la duración real en el plan final.
+Duración objetivo: 5 a 7 minutos
 
 **Diapositiva 18 — Colección de estudiantes.** «En la lección anterior aprendimos a crear un objeto `Estudiante`. Si necesitamos trabajar con varios, podemos guardarlos juntos en un array. Esta colección tiene posiciones llamadas índices. En Java, el primer índice es cero: un array de tres estudiantes usa las posiciones 0, 1 y 2. Cada posición guarda una referencia a un objeto distinto. ¿En qué posición se guardaría el segundo estudiante? En la posición 1».
 
