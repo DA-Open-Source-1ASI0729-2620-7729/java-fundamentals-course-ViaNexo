@@ -9,8 +9,8 @@ Material del curso de Java para estudiantes de secundaria. Los ejercicios se pue
 
 ## Lecciones 3 y 4 — Integrante 2
 
-- **Lección 3: operadores y expresiones.** [Ejercicio inicial](starter-files/lesson-03/Main.java), [ejemplo completo](completed-examples/lesson-03/Main.java) y [guion](scripts/lesson-03.md).
-- **Lección 4: decisiones con `if-else`.** [Ejercicio inicial](starter-files/lesson-04/Main.java), [ejemplo completo](completed-examples/lesson-04/Main.java) y [guion](scripts/lesson-04.md).
+- **Lección 3: operadores y expresiones.** [Video](https://www.youtube.com/watch?v=LMexAA7HBCU), [práctica en OnlineGDB](https://onlinegdb.com/y7ILmdTZv), [ejercicio inicial](starter-files/lesson-03/Main.java), [ejemplo completo](completed-examples/lesson-03/Main.java) y [guion](scripts/lesson-03.md).
+- **Lección 4: decisiones con `if-else`.** [Video](https://www.youtube.com/watch?v=HzU43Zegk1M), [práctica en OnlineGDB](https://onlinegdb.com/nLXkiaFj8), [ejercicio inicial](starter-files/lesson-04/Main.java), [ejemplo completo](completed-examples/lesson-04/Main.java) y [guion](scripts/lesson-04.md).
 ## Lecciones 5 y 6 — Integrante 3
 
 - **Lección 5: bucles `for` y `while`.** [Ejercicio inicial](starter-files/lesson-05/Main.java), [solución con `for`](completed-examples/lesson-05/Main.java), [solución con `while`](completed-examples/lesson-05/WhileExample.java) y [guion](scripts/lesson-05.md).
