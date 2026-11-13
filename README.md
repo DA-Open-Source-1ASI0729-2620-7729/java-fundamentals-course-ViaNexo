@@ -34,4 +34,4 @@ Material del curso de Java para estudiantes de secundaria. Los ejercicios se pue
 4. En la lección 5, ejecuta la solución `Main.java` y el ejemplo `WhileExample.java` por separado. Si el editor exige que la clase pública se llame `Main`, cambia el nombre de la clase `WhileExample` a `Main` al pegar ese ejemplo.
 5. Las lecciones 7, 8, 9 y 10 incluyen su propia clase `Estudiante` dentro de `Main.java`. Ejecuta cada lección por separado y no combines sus archivos.
 
-La secuencia y los enlaces de cada lección se reúnen en [course-plan.md](course-plan.md). Los videos y las prácticas en línea de las lecciones 5 y 6 están enlazados en el plan. Para las lecciones 3 y 4 ya están enlazadas las prácticas en línea; aún faltan las duraciones reales y los videos.
+La secuencia y los enlaces de cada lección se reúnen en [course-plan.md](course-plan.md). Los videos y las prácticas en línea de las lecciones 5 y 6 están enlazados en el plan. Las lecciones 3 y 4 tienen videos y prácticas en línea enlazados en el plan. Aún faltan las duraciones reales de ambas lecciones.

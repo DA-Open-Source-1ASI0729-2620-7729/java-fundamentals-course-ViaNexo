@@ -24,7 +24,7 @@
 
 - **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
 - **Descripción:** Calcula con operadores aritméticos, compara valores y reconoce el resultado de una expresión.
-- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Video:** [Ver la lección 3](https://www.youtube.com/watch?v=LMexAA7HBCU).
 - **Práctica en línea:** [Abrir el editor con el ejercicio de operadores](https://onlinegdb.com/y7ILmdTZv).
 - **Código:** [Archivo inicial](starter-files/lesson-03/Main.java) · [Ejemplo completo](completed-examples/lesson-03/Main.java).
 - **Guion:** [Lección 3](scripts/lesson-03.md).
@@ -34,7 +34,7 @@
 
 - **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
 - **Descripción:** Elige entre dos acciones según una condición y prueba distintos valores de entrada escritos en el programa.
-- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Video:** [Ver la lección 4](https://www.youtube.com/watch?v=HzU43Zegk1M).
 - **Práctica en línea:** [Abrir el editor con el ejercicio de decisiones](https://onlinegdb.com/nLXkiaFj8).
 - **Código:** [Archivo inicial](starter-files/lesson-04/Main.java) · [Ejemplo completo](completed-examples/lesson-04/Main.java).
 - **Guion:** [Lección 4](scripts/lesson-04.md).
