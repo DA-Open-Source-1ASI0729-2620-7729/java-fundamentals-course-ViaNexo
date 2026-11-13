@@ -1,6 +1,6 @@
 # Lección 8 — Constructores y encapsulación
 
-Duración objetivo: 5 a 7 minutos; usar la duración real en el plan final.
+Duración objetivo: 8 minutos.
 
 **Diapositiva 16 — Construir y proteger.** «En la lección anterior creamos un objeto y después asignamos su nombre y edad por separado. Podemos iniciar ambos datos al crear el objeto mediante un constructor. En la diapositiva aparece también `private`: esta palabra restringe el acceso directo al atributo desde otras clases. Así decidimos cómo se leen y modifican los datos».
 

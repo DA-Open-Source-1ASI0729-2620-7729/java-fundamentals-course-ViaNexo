@@ -1,6 +1,6 @@
 # Lección 7 — Clases y objetos
 
-Duración objetivo: 5 a 7 minutos; usar la duración real en el plan final.
+Duración objetivo: 6 minutos.
 
 **Diapositiva 14 — Del molde al objeto.** «Hasta ahora usamos variables y métodos. Ahora vamos a reunir datos y comportamientos relacionados. Una clase es como un molde: describe qué características y acciones tendrá un estudiante. Un objeto es un estudiante concreto creado a partir de ese molde. En nuestro ejemplo, la clase `Estudiante` tendrá nombre, edad y una acción para presentarse. Luna será un objeto con sus propios datos».
 

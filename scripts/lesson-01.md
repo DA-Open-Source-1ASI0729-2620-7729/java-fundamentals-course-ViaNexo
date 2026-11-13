@@ -1,6 +1,6 @@
 # Lección 1 — ¿Qué es programar y qué es Java?
 
-Duración objetivo: 5 a 7 minutos.
+Duración objetivo: 6:09 min
 
 **Diapositiva 1 — ¿Qué es programar?**
 
