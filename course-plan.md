@@ -20,6 +20,25 @@
 - **Código:** [Archivo inicial](starter-files/lesson-02/Main.java) · [Ejemplo completo](completed-examples/lesson-02/Main.java).
 - **Al finalizar:** el estudiante crea variables y muestra un mensaje con sus valores.
 
+### Lección 3: Operadores y expresiones
+
+- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Descripción:** Calcula con operadores aritméticos, compara valores y reconoce el resultado de una expresión.
+- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
+- **Código:** [Archivo inicial](starter-files/lesson-03/Main.java) · [Ejemplo completo](completed-examples/lesson-03/Main.java).
+- **Guion:** [Lección 3](scripts/lesson-03.md).
+- **Al finalizar:** el estudiante obtiene resultados numéricos y booleanos, y distingue `=` de `==`.
+
+### Lección 4: Decisiones con `if-else`
+
+- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Descripción:** Elige entre dos acciones según una condición y prueba distintos valores de entrada escritos en el programa.
+- **Video:** pendiente de publicación como video no listado en YouTube.
+- **Práctica en línea:** pendiente de crear el enlace directo al editor con el ejercicio precargado.
+- **Código:** [Archivo inicial](starter-files/lesson-04/Main.java) · [Ejemplo completo](completed-examples/lesson-04/Main.java).
+- **Guion:** [Lección 4](scripts/lesson-04.md).
+- **Al finalizar:** el estudiante construye y comprueba una decisión con `if-else`.
 ### Lección 5: Bucles `for` y `while`
 
 - **Duración:** 4:59 min
