@@ -1,6 +1,6 @@
 # Lección 10 — Registro final de estudiantes
 
-Duración objetivo: 6 a 8 minutos; escribir la duración real en el plan final.
+Duración objetivo: 6 a 8 minutos
 
 **Diapositiva 20 — Proyecto final.** «Ya conocemos las piezas: una clase define estudiantes, el constructor les da nombre y edad, el método permite presentarlos, el array reúne varios objetos y la entrada y salida nos dejan conversar con el programa. En esta lección las uniremos para registrar a dos estudiantes. Antes de abrir el editor, intenta identificar qué parte del programa se ocupará de guardar cada estudiante».
 
