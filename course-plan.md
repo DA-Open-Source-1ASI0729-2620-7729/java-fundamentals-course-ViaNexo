@@ -62,20 +62,20 @@
 
 ### Lección 9: Arrays de objetos
 
-- **Duración:** 5 a 7 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 2:18 min
 - **Descripción:** Agrupa objetos `Estudiante` en un array y recórrelo para mostrar sus datos.
-- **Video:** 
-- **Práctica en línea:** 
+- **Video:** [Ver la lección 9](https://youtu.be/-DJgiesasPY).
+- **Práctica en línea:** [Abrir el editor con el ejercicio de arrays](https://onlinegdb.com/3Widzj9ml).
 - **Código:** [Archivo inicial](starter-files/lesson-09/Main.java) · [Ejemplo completo](completed-examples/lesson-09/Main.java).
 - **Guion:** [Lección 9](scripts/lesson-09.md).
 - **Al finalizar:** el estudiante comprende los índices desde cero y recorre un array de objetos.
 
 ### Lección 10: Registro final de estudiantes
 
-- **Duración:** 6 a 8 minutos previstos; registrar la duración real después de grabar.
+- **Duración:** 2:14 min
 - **Descripción:** Integra clase, constructor, método, array y entrada/salida en un programa que registra dos estudiantes.
-- **Video:** 
-- **Práctica en línea:** 
+- **Video:** [Ver la lección 10](https://youtu.be/oo7FbnIQo5s).
+- **Práctica en línea:** [Abrir el editor con el registro de estudiantes](https://onlinegdb.com/jxZIduZ8u).
 - **Código:** [Archivo inicial](starter-files/lesson-10/Main.java) · [Ejemplo completo](completed-examples/lesson-10/Main.java).
 - **Guion:** [Lección 10](scripts/lesson-10.md).
 - **Al finalizar:** el estudiante ejecuta el registro, identifica errores frecuentes y propone una mejora sencilla.
